@@ -121,3 +121,12 @@ h3, h5 {
 h6 {
     color: purple;
 }
+
+footer {
+    width: 99%;
+    text-align: center;
+    color: #686868;
+    font-weight: normal;
+    margin-bottom: 15px;
+    font-size: 12px;
+  }
