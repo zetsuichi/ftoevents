@@ -54,6 +54,7 @@ header {
 
 .competition:hover {
     color: white;
+    transition: color .5s;
 }
 .boxin {
     border-radius: 10px;
